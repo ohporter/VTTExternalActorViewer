@@ -25,7 +25,7 @@
 	],
 	"socket": true,
 	"url": "https://github.com/ardittristan/VTTExternalActorViewer",
-	"manifest": "https://github.com/ardittristan/VTTExternalActorViewer/blob/dev/module.json",
+	"manifest": "https://raw.githubusercontent.com/ardittristan/VTTExternalActorViewer/dev/module.json",
 	"download": "https://github.com/ardittristan/VTTExternalActorViewer/archive/dev.zip",
 	"minimumCoreVersion": "0.6.0",
 	"compatibleCoreVersion": "0.7.0"
