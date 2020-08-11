@@ -111,6 +111,8 @@ async function createJsonFile(fileName, worldName, content) {
 
     let response = await FilePicker.upload("data", "actorAPI", file, {});
     filePath = response.path;
+
+    console.log(response)
 }
 
 
